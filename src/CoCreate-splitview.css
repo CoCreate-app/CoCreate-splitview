@@ -1,9 +1,3 @@
-body {
-    display: flex;
-    flex-flow: column nowrap;
-    height: 100vh;
-    max-height: 100vh;
-}
 .svRow {
     display: flex;
     flex-grow: 1;
