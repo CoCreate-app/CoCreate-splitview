@@ -9,7 +9,7 @@ module.exports = {
     sources: [{
             path: "./docs/index.html",
             collection: "files",
-            document_id: "",
+            document_id: "6011fda120b8221182666b50",
             key: "html",
             data:{
                 name: "Splitview Doc",
@@ -22,7 +22,7 @@ module.exports = {
             document_id: "",
             data:{
                 collection: "files",
-                document_id: "",
+                document_id: "6011fda120b8221182666b50",
                 name: "html",
                 domains: ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
                 route: "/docs/splitview",
