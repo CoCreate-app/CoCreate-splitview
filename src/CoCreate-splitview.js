@@ -210,3 +210,7 @@ function stopDragVertical(e) {
     document.documentElement.removeEventListener('touchmove', doDragVertical, false);
     document.documentElement.removeEventListener('touchend', stopDragVertical, false);
 }
+
+export default {initDragHorizontal, doDragHorizontal, stopDragHorizontal,
+initDragVertical, doDragVertical, stopDragVertical}
+
